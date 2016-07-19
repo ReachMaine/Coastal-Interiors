@@ -1,0 +1,9 @@
+/* CSS Document */
+
+hr {
+    width: 100%;
+	line-height: 1px;
+	color: #FAE2A2;
+	border: 0px;
+	margin-bottom: 10px;
+}
